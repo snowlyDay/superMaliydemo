@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="完3地面" tilewidth="32" tileheight="32">
+  <image source="../../../../迷失边缘/背景地面/完3地面.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="601" name="完4背景" tilewidth="32" tileheight="32">
+  <image source="../../../../迷失边缘/背景地面/完4背景.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="1201" name="完4地面" tilewidth="32" tileheight="32">
+  <image source="../../../../迷失边缘/背景地面/完4地面.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="1801" name="完成1背景" tilewidth="32" tileheight="32">
+  <image source="../../../../迷失边缘/背景地面/完成1背景.png" width="960" height="640"/>
+ </tileset>
+ <layer name="background" width="100" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3V5W7bUByGcSddnDHz1o6ZGdoxM9OV7Ep2CSuMmblJaSszt0m7dSszt3siLVM85TiyFU+adl7p9+FvnxzZ75FiRZGRkZGRkZGRkZGRkZGR+beT6FAUF9wO7fVU5jRH8N/IWJdqOvfAG6T7Onkefz3Dvs7V4PdUwXUZ6xJJ51EGeo9lbRzikaBq51gdodb47//viaaDGAM9uFjrRhKSVe3sEgjsXbTGv4eZ3LSxN+IQjwTcwm3cwV3cw308wEM8wmM8wVM8w3O8wEu8wmu8wVu8w3t8wEd8spl71lC5ZrADD+u9qEGtqp09AoG9i9b49zCTRLpxwY0kJCMFqUjDZ3xBOjKQiSxkIwe5yEM+ClCIIhSjBKUoQzkqUIkqi87jutEOnIpigx0RTu2sCAT2Llrzew8TqaYbD7yoQS2+4hvq8B0/UI8GNKIJzWhBK9rQjg50ogvd6EEv+tCPAQxiyKLzuGHwPPS+H6JZ1L3vPP9cbybDvm7s7As7IjACDqhwYiRGYTTGYCzGYTwmYCImYTKmYCqmYTpmYCZmYTbmYK49+LPo7WlF9L4f4ZjNJJJ3jcI8zMcCLMQiLMYSLMUyLMcKrMQqrMYarMU6rMcGbMQmbMYWbMU2bMcO7BT0G2rPdN4xA5nIQjZykIs85KMAhShCMUpQijKUowKVqFL1vx/hmM10G40Y7MJu7MFe7MN+HMBBHMJhHMFRHMNxnMBJnMJpnMFZnMN5XMBFXMJlXMFVwXmE2rOed2xAI5rQjBa0og3t6EAnutCNHvSiD/0YwCCGfv33iL4f4ZjNdPsT0aS9fUAfAAA=
+  </data>
+ </layer>
+ <layer name="collision" width="100" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3RywmAMBQEQE/2X4WfPtRC/PRhQPQgESKCis7AHpLDHvZl2XcV+T0pQ6qDvzp/eoX3SN2zuZBYz/4mLFI37S8k1rO+25DOPTZndh1CxpDpZGI9+04AAAAAAIA/mwGn44yvQB8AAA==
+  </data>
+ </layer>
+</map>
